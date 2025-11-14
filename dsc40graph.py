@@ -1,6 +1,6 @@
 import collections
 
-class DirectedGraph
+class DirectedGraph:
     """
     A simple implementation of a directed graph.
     """
